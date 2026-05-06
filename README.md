@@ -1,4 +1,4 @@
-# Autonomous Email Intelligence Agent
+# Email Intelligence Agent
 An AI-powered email triage system that reads unread Gmail emails, classifies intent and urgency, drafts professional replies using LLMs, and routes everything through a human approval queue before sending.
 
 Built with:
